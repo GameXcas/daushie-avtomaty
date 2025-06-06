@@ -1,0 +1,2 @@
+# daushie-avtomaty
+Дающие слоты
